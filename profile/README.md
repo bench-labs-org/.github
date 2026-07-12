@@ -3,13 +3,13 @@
 </div>
 
 # Navigation
-[![HuggingFace Org](https://img.shields.io/badge/Explore-Bench%20labs%20org-9333ea?logo=huggingface&logoColor=white)](https://huggingface.co/bench-labs)
+[![HuggingFace Org](https://img.shields.io/badge/Huggingface-Bench%20Labs%20org-9333ea?logo=huggingface&logoColor=white)](https://huggingface.co/bench-labs)
 
-[![Code For AI](https://img.shields.io/badge/Explore-Code%20For%20AI-9333ea?logo=github&logoColor=white)](https://github.com/bench-labs-org)
+[![Github Org](https://img.shields.io/badge/Github-Bench%20Labs%20org-9333ea?logo=github&logoColor=white)](https://github.com/bench-labs-org)
 
 [![Join Discord Server](https://img.shields.io/badge/Join-Discord%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/zRzbNJBVQQ)
 
-[![The Blog](https://img.shields.io/badge/Read-The%20Blog-0d9488)](https://huggingface.co/spaces/bench-labs/blog)
+[![Blog](https://img.shields.io/badge/Read-The%20Blog-0d9488)](https://huggingface.co/spaces/bench-labs/blog)
 
 ## Latest Releases
 - [LRD Latent Reasoning Directions](https://huggingface.co/spaces/bench-labs/blog?post=LRD1.html)
