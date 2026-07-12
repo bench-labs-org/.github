@@ -9,7 +9,7 @@
 
 [![Join Discord Server](https://img.shields.io/badge/Join-Discord%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/zRzbNJBVQQ)
 
-[![All Updates](https://img.shields.io/badge/Read-All%20Updates-0d9488)](https://huggingface.co/spaces/bench-labs/blog)
+[![The Blog](https://img.shields.io/badge/Read-The%20Blog-0d9488)](https://huggingface.co/spaces/bench-labs/blog)
 
 ## Latest Releases
 - [LRD Latent Reasoning Directions](https://huggingface.co/spaces/bench-labs/blog?post=LRD1.html)
