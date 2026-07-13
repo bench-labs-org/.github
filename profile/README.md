@@ -1,7 +1,6 @@
 
 <div align="center">
 <img src="https://huggingface.co/spaces/bench-labs/README/resolve/main/benchlabs-meadow.png" alt="Bench Labs logo" width="600"/>
-<img src="https://huggingface.co/spaces/bench-labs/README/resolve/main/cow.gif" width="220"/>
 </div>
 
 <div align="center">
