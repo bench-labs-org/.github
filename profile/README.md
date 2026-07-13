@@ -1,9 +1,13 @@
+
 <div align="center">
 <img src="https://huggingface.co/spaces/bench-labs/README/resolve/main/benchlabs-meadow.png" alt="Bench Labs logo" width="600"/>
 <img src="https://huggingface.co/spaces/bench-labs/README/resolve/main/cow.gif" width="220"/>
 </div>
 
-# Navigation
+<div align="center">
+  
+<h1>Navigation</h1>
+
 [![HuggingFace Org](https://img.shields.io/badge/Huggingface-Bench%20Labs%20org-9333ea?logo=huggingface&logoColor=white)](https://huggingface.co/bench-labs)
 
 [![Github Org](https://img.shields.io/badge/Github-Bench%20Labs%20org-9333ea?logo=github&logoColor=white)](https://github.com/bench-labs-org)
@@ -12,12 +16,31 @@
 
 [![Bench Labs Blog](https://img.shields.io/badge/Read-Bench%20Labs%20Blog-0d9488)](https://huggingface.co/spaces/bench-labs/blog)
 
+
+<table>
+<tr>
+<td>
+
 ## Latest Releases
 - [LRD Latent Reasoning Directions](https://huggingface.co/spaces/bench-labs/blog?post=LRD1.html)
 - [bench-AGI](https://huggingface.co/datasets/bench-labs/bench-AGI)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
 
 ## What you will see here
 Experiments, research, benchmarks, datasets..
 
 ## Want to experiment?
 We are making a community where ideas get implemented, people help each other and are interested in what people do here.
+
+</td>
+</tr>
+</table>
+
+</div>
