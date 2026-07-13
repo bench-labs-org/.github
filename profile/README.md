@@ -1,7 +1,9 @@
 
 <div align="center">
-<img src="https://huggingface.co/spaces/bench-labs/README/resolve/main/benchlabs-meadow.png" alt="Bench Labs logo" width="600"/>
-</div>
+<video width="600" autoplay loop muted playsinline controls>
+  <source src="https://huggingface.co/spaces/bench-labs/README/resolve/main/anim.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <div align="center">
   
