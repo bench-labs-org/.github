@@ -4,6 +4,7 @@
   <source src="https://huggingface.co/spaces/bench-labs/README/resolve/main/anim.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+</div>
 
 <div align="center">
   
