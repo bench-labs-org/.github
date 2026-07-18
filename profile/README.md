@@ -6,19 +6,17 @@ Building open source benchmarks, datasets, experiments, research, and AI.
 
 Everything here is designed to be explored, reproduced, improved, and shared by the community.
 
-**Research • Engineering • Community**
-
-</div>
-
 ---
 
-## Latest Releases
+### 🌟 Latest Releases
 
-- **LRD — Latent Reasoning Directions**  
-  https://huggingface.co/spaces/bench-labs/blog?post=LRD1.html
+| Project | Description |
+|---------|-------------|
+| 🤗 [PixelModel v1](https://huggingface.co/bench-labs/pixelmodel-v1) | New release |
+| 🤗 [bench-AGI](https://huggingface.co/datasets/bench-labs/bench-AGI) | Updated benchmark |
+| 📄 [Latent Reasoning Directions](https://huggingface.co/spaces/bench-labs/blog?post=LRD1.html) | Latest research article |
 
-- **bench-AGI**  
-  https://huggingface.co/datasets/bench-labs/bench-AGI
+</div>
 
 ---
 
@@ -27,11 +25,23 @@ Everything here is designed to be explored, reproduced, improved, and shared by 
 - 🤗 Hugging Face Organization  
   https://huggingface.co/bench-labs
 
-- GitHub Organization  
+- 🐙 GitHub Organization  
   https://github.com/bench-labs-org
 
-- Bench Labs Blog  
+- 📰 Bench Labs Blog  
   https://huggingface.co/spaces/bench-labs/blog
 
-- Discord Community  
+- 💬 Discord Community  
   https://discord.gg/zRzbNJBVQQ
+
+---
+
+<div align="center">
+
+### Open source first.
+
+Bench Labs builds datasets, benchmarks, experiments, and research that anyone can inspect, reproduce, and improve.
+
+⭐ If you find our work useful, consider following the organization on GitHub and Hugging Face.
+
+</div>
