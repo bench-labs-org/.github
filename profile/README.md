@@ -1,4 +1,4 @@
-[<div align="center">
+<div align="center">
 
 # Bench Labs
 
@@ -37,6 +37,7 @@ Everything here is designed to be explored, reproduced, improved, and shared by 
 - 💬 Discord Community  
   https://discord.gg/zRzbNJBVQQ
 
+
 ---
 
 <div align="center">
@@ -48,4 +49,3 @@ Bench Labs builds datasets, benchmarks, experiments, and research that anyone ca
 ⭐ If you find our work useful, consider following the organization on GitHub and Hugging Face.
 
 </div>
-](https://huggingface.co/spaces/bench-labs/BenchLabs-Leaderboard)
