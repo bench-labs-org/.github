@@ -6,37 +6,38 @@ Building open source benchmarks, datasets, experiments, research, and AI.
 
 Everything here is designed to be explored, reproduced, improved, and shared by the community.
 
+</div>
+
 ---
 
-### 🌟 Latest Releases
+## 🚀 Featured Collections
 
-| Project | Description |
-|---------|-------------|
-| 🤗 [PixelModel v1](https://huggingface.co/bench-labs/pixelmodel-v1) | New release |
-| 🤗 [bench-AGI](https://huggingface.co/datasets/bench-labs/bench-AGI) | Updated benchmark |
-| 📄 [Latent Reasoning Directions](https://huggingface.co/spaces/bench-labs/blog?post=LRD1.html) | Latest research article |
-
-</div>
+| Collection | Description |
+|------------|-------------|
+| 🖼️ [Text to Image](https://huggingface.co/collections/bench-labs/text-to-image) | PixelModel and other open-source text-to-image models. |
+| 🗺️ [Roadmap](https://huggingface.co/collections/bench-labs/roadmap) | Current projects, future releases, and research directions. |
 
 ---
 
 ## Explore
 
-- 🤗 Hugging Face Organization  
+- 🤗 **Hugging Face Organization**  
   https://huggingface.co/bench-labs
 
-- 🐙 GitHub Organization  
+- 🐙 **GitHub Organization**  
   https://github.com/bench-labs-org
 
-- 📰 Bench Labs Blog  
+- 📰 **Blog**  
   https://huggingface.co/spaces/bench-labs/blog
 
-- 📊 Leaderboard  
+- 📊 **Leaderboard**  
   https://huggingface.co/spaces/bench-labs/BenchLabs-Leaderboard
 
-- 💬 Discord Community  
-  https://discord.gg/zRzbNJBVQQ
+- 🤝 **Partnerships & Members**  
+  https://huggingface.co/spaces/bench-labs/Members
 
+- 💬 **Discord Community**  
+  https://discord.gg/zRzbNJBVQQ
 
 ---
 
@@ -44,8 +45,13 @@ Everything here is designed to be explored, reproduced, improved, and shared by 
 
 ### Open source first.
 
-Bench Labs builds datasets, benchmarks, experiments, and research that anyone can inspect, reproduce, and improve.
+Bench Labs builds datasets, benchmarks, experiments, research, and AI that anyone can inspect, reproduce, improve, and share.
 
 ⭐ If you find our work useful, consider following the organization on GitHub and Hugging Face.
+
+---
+
+Acquired by **Simplicity Org**  
+https://simplicity-india.com
 
 </div>
