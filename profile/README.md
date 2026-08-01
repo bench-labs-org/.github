@@ -2,5 +2,5 @@
 
 # Bench Labs
 
-- 🤗 **Hugging Face Organization**  
+🤗 **Hugging Face**  
   https://huggingface.co/bench-labs
