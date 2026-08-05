@@ -2,5 +2,6 @@
 
 # Bench Labs
 
-🤗 **Hugging Face**  
+Exploring artificial intelligence together.
+
   https://huggingface.co/bench-labs
